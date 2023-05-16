@@ -4,8 +4,6 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nanashi-03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nanashi-03" /> </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanashi-03" alt="nanashi-03" /></a> </p>
-<br>
 <p align="center">
     <img
       height="150"
