@@ -1,4 +1,4 @@
-<h1 font='fira' align='center'>Anubhav Chakraborty</h1>
+<h1 font='fira code' align='center'>Hi, I'm Anubhav Chakraborty</h1>
 <p align= 'center'>
     <img align='center' src="https://readme-typing-svg.demolab.com/?lines=Mostly%20Self%20Taught;University%20Student;Extremely%20Passionate%20About%20Full%20Stack%20Development&font=Fira%20Code&center=true&width=880&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
