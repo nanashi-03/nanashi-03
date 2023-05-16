@@ -1,5 +1,5 @@
 # Anubhav Chakraborty
-![Profile Views]([https://komarev.com/ghpvc/?username=nanashi-03&color=green](https://komarev.com/ghpvc/?username=nanashi-03&color=green))
+![Profile Views](https://komarev.com/ghpvc/?username=nanashi-03&color=green)
 
 ## Hi 👋, 
 I'm Anubhav Chakraborty, a mostly self taught university student who is extremely passionate about full stack development. 
